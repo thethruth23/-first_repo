@@ -1,1 +1,111 @@
-This is my first file "haxor"
+Personal Question
+
+A. Why did you resign in your previous company ?
+
+	It's because of management, benefit and breach of contract , they want us to sign another contract that is different in the first one	, But I Really love that company, It helps me to build my career and it open my eyes to world of programming, I just can't stay there anymore because of that reason
+
+B. What is your asking salary?
+
+	My current salary is 70k and my asking is 75k to 80k
+
+C. Tell me somethint about yourself.
+
+    I'm an android developer for almost 1 and haft months in a pogo company , I like to create new apps, accept new challenges and gain new knowledge that helps me grow in my programming career. 
+
+
+1. What is ANDROID BUNDLE  
+
+- android bundle is a 
+publishing format that contains app's compiled code and it
+also used by google play to optimize apk for each device configuration
+we can simply build signed android app bundles using android studio.
+	
+	- play feature delivery - which allows you to add 
+		feature modules to your app project
+
+2. Toast 
+
+- is a small popup I personally use this to inform the user that the
+	status is save or got an error on specific field 
+	and also the Toasts automatically disappear after a timeout.
+
+3. AAR 
+
+ is a file that contains a software library that we used in  developing android apps, It is similar to the apk but it allows us to store a component that we can reuse accross multiple different apps
+
+4. Container 
+  
+   is a view used to contain other views 
+	these container is also called layouts.
+	But the difference of container and layout is the 
+	layout directly extends viewgroup but the container is a
+	bucket description for views that wrap dynamic contents.
+
+5. Recycler or RecyclerView
+
+ is an advanced version of grid and listView
+from the word itself we can recycler the layout that we  provided in adapter and it will display to the recyclerView, I personally use this in large data for example products that need to display in products page and etc.
+
+
+6. Adapter
+
+   is a bridge between UI and Data source. 
+	it holds the data and send the data into adapterview
+	and then the view can get the data and display it. 
+	I peronally used adapter in recyclerView , GridView and etc.
+
+7. Manifest
+
+ contains permission, activity, service and all the essential information about the app before the operating system runs it.
+
+8. Gradle 
+
+is a build tool that builds source code of the program,
+It is important part of android studio and need to be install before the development of application .
+
+9. Fragment
+
+ is a reusable app's UI, fragment defines its own layout and has it's own life cycle. But frgamet must be hosted by and activity or another fragment because it cannot live by its own. 
+
+10. Intent 
+
+- Intent is like an Intention in real life , but in android we use it to perform an action on the screen, It's mostly used to start activity , send broadcast receiver , send message between to activities and etc.
+
+11. Activity
+
+ is a single screen in android it's like a JFrame in Java ,we can place all of our UI components and widgets in a single screen with the help of it.
+
+12. DDMS
+
+ is Dalviv Debug Monitor Server which provide screen capture, logcat, process and many more.It able us ot monitor operations in the emulator as well as real real devices.
+	
+13. ADB 
+
+is a versatile commandline tool that allows us to communicate with a device,it can perform various actions such as installing , debugging apps , copying files back and forth.
+
+14. Sensors
+
+ - We have 3 kinds of android sensors 
+
+The Motion sensors - These are used to measure  accelaration forces and rotational forces along with 3 axes X Y and Z.
+	
+Position Sensors - Are used to measure the physical position of the device itself.
+
+Environmental Sensors - These are used to measure the environmental changes such as temperature , humidity at etc.
+
+15. Class 
+
+in object oriented programming is a group of objects that share common properties and behavior. 
+
+16.  Service
+
+ is an application component that can perform long-running operation in background , It does not provide user interface, Once started, A service might continue running for some time even after we switch it to onother application.
+
+17. WebSocket 
+
+is an advanced technology that makes possible to open a two-way interactive communication session between the user's browser and a server we can send messages to a server and receive event-driven responses without having to poll the server for a reply.
+
+	-- I don't have in deep experience about this web socket but I encounter it during my freelance project a year ago so I need to refresh on this one and study it again ,But I have an Idea how it works Unlike HTTP, where you have to constantly request updates, with websockets, updates are sent immediately when they are available.
+
+	-How web socket connection work - Web scoket uses unified TCP connections and needs one party to terminate the conneciton, Until it happens, the connection remains
+active, Unlike Http once the conneciton request is completed, the connection breaks automatically.
